@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        "###",
+        "#S#"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:saddle"
+        },
+        "#": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "minecraft:iron_horse_armor",
+        "count": 1
+    }
+}

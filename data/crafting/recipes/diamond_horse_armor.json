@@ -1,14 +1,11 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "  #",
+        "# #",
         "###",
-        "#S#"
+        "# #"
     ],
     "key": {
-        "S": {
-            "item": "minecraft:saddle"
-        },
         "#": {
             "item": "minecraft:diamond"
         }
